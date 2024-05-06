@@ -1,0 +1,9 @@
+8
+1,       ABD, 40
+32,       GGGG, 43
+33,      avc, 0
+34,     ágawfawf, 0
+35,    fasf, 0
+36,   aafa, 258562
+37,  ABCD, 54
+38, ABFE, 23000

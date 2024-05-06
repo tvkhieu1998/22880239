@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web_QLCH_22880239.props" />
+</Project>

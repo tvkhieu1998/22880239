@@ -1,0 +1,46 @@
+﻿@page
+@model Web_QLCH_22880239.Pages.MH_DanhSach_SanPhamModel
+@using Entites_22880239
+@{
+}
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+</style>
+<form method="post">
+    <input type="text" id="Tukhoa" name="Tukhoa" placeholder="Write something ..." style="width: 85%">
+    <input type="submit" value="Tim Kiem">
+</form>
+<div>
+    <a href="MH_Them_SanPham">Thêm</a>
+</div>
+<div>
+    <table>
+        <tr>
+            <th>Ma San Pham</th>
+            <th>Ten </th>
+            <th>Gia</th>
+        </tr>
+        @foreach (SanPham sp in Model.DanhSachSanPham)
+        {
+        <tr>
+            <td>@sp.MaSP</td>
+            <td>@sp.TenSP</td>
+            <td>@sp.Gia</td>
+        </tr>
+        }
+    </table>
+</div>

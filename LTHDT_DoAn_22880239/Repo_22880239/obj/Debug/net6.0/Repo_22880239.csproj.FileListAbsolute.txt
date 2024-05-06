@@ -1,0 +1,15 @@
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\bin\Debug\net6.0\Repo_22880239.deps.json
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\bin\Debug\net6.0\Repo_22880239.dll
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\bin\Debug\net6.0\Repo_22880239.pdb
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\bin\Debug\net6.0\Entites_22880239.dll
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\bin\Debug\net6.0\Entites_22880239.pdb
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\Repo_22880239.csproj.AssemblyReference.cache
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\Repo_22880239.GeneratedMSBuildEditorConfig.editorconfig
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\Repo_22880239.AssemblyInfoInputs.cache
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\Repo_22880239.AssemblyInfo.cs
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\Repo_22880239.csproj.CoreCompileInputs.cache
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\Repo_22880239.csproj.CopyComplete
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\Repo_22880239.dll
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\refint\Repo_22880239.dll
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\Repo_22880239.pdb
+E:\22880239\LTHDT_DoAn_22880239\Repo_22880239\obj\Debug\net6.0\ref\Repo_22880239.dll

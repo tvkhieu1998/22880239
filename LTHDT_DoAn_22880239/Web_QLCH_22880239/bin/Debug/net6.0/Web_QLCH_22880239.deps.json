@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Web_QLCH_22880239/1.0.0": {
+        "dependencies": {
+          "Entites_22880239": "1.0.0",
+          "Services_22880239": "1.0.0"
+        },
+        "runtime": {
+          "Web_QLCH_22880239.dll": {}
+        }
+      },
+      "Entites_22880239/1.0.0": {
+        "runtime": {
+          "Entites_22880239.dll": {}
+        }
+      },
+      "Repo_22880239/1.0.0": {
+        "dependencies": {
+          "Entites_22880239": "1.0.0"
+        },
+        "runtime": {
+          "Repo_22880239.dll": {}
+        }
+      },
+      "Services_22880239/1.0.0": {
+        "dependencies": {
+          "Entites_22880239": "1.0.0",
+          "Repo_22880239": "1.0.0"
+        },
+        "runtime": {
+          "Services_22880239.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web_QLCH_22880239/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entites_22880239/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repo_22880239/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services_22880239/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
