@@ -33,5 +33,9 @@ namespace Services_22880239
             sanPham.MaSP = maxID + 1;
             _luuTruSanPham.ThemSanPham(sanPham);
         }
+        public void SuaSanPham(MatHang sanPham)
+        {
+            _luuTruSanPham.SuaSanPham(sanPham);
+        }
     }
 }

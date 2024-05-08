@@ -11,5 +11,7 @@ namespace Repo_22880239
     {
         List<MatHang> DocDanhSachSanPham();
         void ThemSanPham(MatHang sanPham);
+        void SuaSanPham(MatHang sanPham);
+        List<MatHang>? DocChiTietSanPham(int masp);
     }
 }

@@ -2,3 +2,18 @@
 @model Web_QLCH_22880239.Pages.MH_Sua_SanPhamModel
 @{
 }
+<form method="post">
+    <h1>Nhập những thông tin mà bạn muốn Update</h1>
+    <label for="fname">Tên Sản Phẩm</label><br>
+    <input type="text" id="name" name="tensp" placeholder="Nhập Tên..."><br />
+    <label for="fname">Hạn Dùng</label><br>
+    <input type="text" id="name" name="handung" placeholder="Form: dd/mm/yy"><br />
+    <label for="fname">Công Ty Sản Xuất</label><br>
+    <input type="text" id="name" name="congtysx" placeholder="Nhập Tên Công Ty ..."><br />
+    <label for="fname">Năm Sản Xuất</label><br>
+    <input type="number" id="price" name="namsx" placeholder="Năm sản xuất sản phẩm"><br />
+    <label for="fname">Loaị Hàng</label><br>
+    <input type="text" id="name" name="loaihang" placeholder="Nhập Loại Hàng"><br />
+    <input type="submit" value="Lưu">
+</form>
+@Model.Chuoi

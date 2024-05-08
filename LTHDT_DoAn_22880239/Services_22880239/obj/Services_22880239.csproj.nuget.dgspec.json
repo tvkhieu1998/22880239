@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Services_22880239\\Services_22880239.csproj": {}
+    "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Services_22880239\\Services_22880239.csproj": {}
   },
   "projects": {
-    "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj": {
+    "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj",
+        "projectUniqueName": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj",
         "projectName": "Entites_22880239",
-        "projectPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Entites_22880239\\obj\\",
+        "projectPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Entites_22880239\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,21 +60,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj": {
+    "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj",
+        "projectUniqueName": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj",
         "projectName": "Repo_22880239",
-        "projectPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Repo_22880239\\obj\\",
+        "projectPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Repo_22880239\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,14 +86,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj": {
-                "projectPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj"
+              "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj": {
+                "projectPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj"
               }
             }
           }
@@ -114,21 +124,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Services_22880239\\Services_22880239.csproj": {
+    "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Services_22880239\\Services_22880239.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Services_22880239\\Services_22880239.csproj",
+        "projectUniqueName": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Services_22880239\\Services_22880239.csproj",
         "projectName": "Services_22880239",
-        "projectPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Services_22880239\\Services_22880239.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Services_22880239\\obj\\",
+        "projectPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Services_22880239\\Services_22880239.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Services_22880239\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,17 +150,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj": {
-                "projectPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj"
+              "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj": {
+                "projectPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Entites_22880239\\Entites_22880239.csproj"
               },
-              "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj": {
-                "projectPath": "H:\\DoAn-22880239\\22880239\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj"
+              "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj": {
+                "projectPath": "E:\\GITHUB DATA\\22880239_2\\LTHDT_DoAn_22880239\\Repo_22880239\\Repo_22880239.csproj"
               }
             }
           }
@@ -176,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

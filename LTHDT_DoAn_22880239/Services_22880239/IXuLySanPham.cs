@@ -11,5 +11,6 @@ namespace Services_22880239
     {
         List<MatHang> DocDanhSachSanPham(string tukhoa = "");
         void ThemSanPham(MatHang sanPham);
+        void SuaSanPham(MatHang sanPham);
     }
 }

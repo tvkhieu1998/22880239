@@ -4,7 +4,7 @@ namespace Repo_22880239
 {
     public class LuuTruSanPham: ILuuTruSanPham
     {
-        private string _filePath = "H:\\DoAn-22880239\\22880239\\dssp.txt";
+        private string _filePath = "E:\\GITHUB DATA\\22880239_2\\dssp.txt";
         public List<MatHang> DocDanhSachSanPham()
         {
             List<MatHang> dsSanPham = new List<MatHang>();
@@ -39,5 +39,30 @@ namespace Repo_22880239
             dssp.Add(sanPham);
             LuuDanhSachSanPham(dssp);
         }
+        public List<MatHang>? DocChiTietSanPham(int masp)
+        {
+            List<MatHang> mh = DocDanhSachSanPham();
+            foreach(MatHang s in mh)
+            {
+                if(s.MaSP == masp)
+                {
+                    return s;
+                }
+            }
+            return null;
+        }
+        public void SuaSanPham(MatHang sanPham)
+        {
+            var mh = DocDanhSachSanPham();
+            for(int i = 0; i< mh.Count; i++)
+            {
+                if (mh[i].MaSP == sanPham.MaSP)
+                {
+                    mh[i] = sanPham;
+                }
+            }
+            LuuDanhSachSanPham(mh);
+        }
+        
     }
 }
