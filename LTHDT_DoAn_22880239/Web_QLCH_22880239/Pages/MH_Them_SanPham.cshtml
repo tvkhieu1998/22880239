@@ -3,11 +3,17 @@
 @using Entites_22880239
 @{
 }
-<form method="post">
+<form method="post" style="width: 100%">
     <label for="fname">Tên Sản Phẩm</label><br>
-    <input type="text" id="name" name="tensp" placeholder="Write name ..."><br />
-    <label for="fname">Giá Sản Phẩm</label><br>
-    <input type="number" id="price" name="gia" placeholder="Input Price ..."><br />
+    <input type="text" id="name" name="tensp" placeholder="Nhập Tên..."><br />
+    <label for="fname">Hạn Dùng</label><br>
+    <input type="text" id="name" name="handung" placeholder="Form: dd/mm/yy"><br />
+    <label for="fname">Công Ty Sản Xuất</label><br>
+    <input type="text" id="name" name="congtysx" placeholder="Nhập Tên Công Ty ..."><br />
+    <label for="fname">Năm Sản Xuất</label><br>
+    <input type="number" id="price" name="namsx" placeholder="Năm sản xuất sản phẩm"><br />
+    <label for="fname">Loaị Hàng</label><br>
+    <input type="text" id="name" name="loaihang" placeholder="Nhập Loại Hàng"><br />
     <input type="submit" value="Thêm">
 </form>
 @Model.Chuoi

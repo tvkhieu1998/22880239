@@ -9,7 +9,7 @@ namespace Services_22880239
 {
     public interface IXuLySanPham
     {
-        List<SanPham> DocDanhSachSanPham(string tukhoa = "");
-        void ThemSanPham(SanPham sanPham);
+        List<MatHang> DocDanhSachSanPham(string tukhoa = "");
+        void ThemSanPham(MatHang sanPham);
     }
 }

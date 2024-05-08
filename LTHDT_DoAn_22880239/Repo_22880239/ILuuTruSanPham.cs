@@ -9,7 +9,7 @@ namespace Repo_22880239
 {
     public interface ILuuTruSanPham
     {
-        List<SanPham> DocDanhSachSanPham();
-        void ThemSanPham(SanPham sanPham);
+        List<MatHang> DocDanhSachSanPham();
+        void ThemSanPham(MatHang sanPham);
     }
 }

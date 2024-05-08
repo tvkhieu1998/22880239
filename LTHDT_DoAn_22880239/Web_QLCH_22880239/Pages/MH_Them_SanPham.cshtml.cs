@@ -10,7 +10,14 @@ namespace Web_QLCH_22880239.Pages
         [BindProperty]
         public string TenSP { get; set; }
         [BindProperty]
-        public int Gia { get; set; }
+        public string HanDung { get; set; }
+
+        [BindProperty]
+        public string CongTySX { get; set; }
+        [BindProperty]
+        public int NamSX { get; set; }
+        [BindProperty]
+        public string LoaiHang { get; set; }
         public string Chuoi { get; set; } = string.Empty;
         private IXuLySanPham _xuLySanPham = new XuLySanPham();
         public void OnGet()
@@ -20,7 +27,7 @@ namespace Web_QLCH_22880239.Pages
         {
             try
             {
-                var sp = new SanPham(TenSP, Gia);
+                var sp = new MatHang(TenSP, HanDung, CongTySX, NamSX, LoaiHang);
                 _xuLySanPham.ThemSanPham(sp);
                 Response.Redirect("/MH_DanhSach_SanPham");
             }

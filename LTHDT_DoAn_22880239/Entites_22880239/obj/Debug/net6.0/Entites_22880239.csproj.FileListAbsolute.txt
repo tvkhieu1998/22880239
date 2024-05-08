@@ -10,3 +10,14 @@ E:\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\Entites_228802
 E:\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\refint\Entites_22880239.dll
 E:\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\Entites_22880239.pdb
 E:\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\ref\Entites_22880239.dll
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\Entites_22880239.GeneratedMSBuildEditorConfig.editorconfig
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\Entites_22880239.AssemblyInfoInputs.cache
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\Entites_22880239.AssemblyInfo.cs
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\Entites_22880239.csproj.CoreCompileInputs.cache
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\Entites_22880239.dll
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\refint\Entites_22880239.dll
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\Entites_22880239.pdb
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\bin\Debug\net6.0\Entites_22880239.deps.json
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\bin\Debug\net6.0\Entites_22880239.dll
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\bin\Debug\net6.0\Entites_22880239.pdb
+H:\DoAn-22880239\22880239\LTHDT_DoAn_22880239\Entites_22880239\obj\Debug\net6.0\ref\Entites_22880239.dll

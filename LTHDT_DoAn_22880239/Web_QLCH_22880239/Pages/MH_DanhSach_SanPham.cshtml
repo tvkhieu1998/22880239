@@ -30,16 +30,27 @@
 <div>
     <table>
         <tr>
-            <th>Ma San Pham</th>
-            <th>Ten </th>
-            <th>Gia</th>
+            <th>Mã Sản Phẩm</th>
+            <th>Tên Sản Phẩm </th>
+            <th>Hạn Dùng</th>
+            <th>Công Ty Sản Xuất</th>
+            <th>Năm Sản Xuất</th>
+            <th>Loai Hang</th>
+            <th>Action</th>
         </tr>
-        @foreach (SanPham sp in Model.DanhSachSanPham)
+        @foreach (MatHang sp in Model.DanhSachSanPham)
         {
         <tr>
             <td>@sp.MaSP</td>
             <td>@sp.TenSP</td>
-            <td>@sp.Gia</td>
+            <td>@sp.HanDung</td>
+            <td>@sp.CongTySX</td>
+            <td>@sp.CongTySX</td>
+            <td>@sp.LoaiHang</td>
+            <td>
+               <a href="MH_Sua_SanPham">Sửa</a>
+               <a href="MH_Xoa_SanPham">Xóa</a>
+            </td>
         </tr>
         }
     </table>

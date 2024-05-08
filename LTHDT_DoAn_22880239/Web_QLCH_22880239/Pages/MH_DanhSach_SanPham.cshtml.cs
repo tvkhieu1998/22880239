@@ -8,7 +8,7 @@ namespace Web_QLCH_22880239.Pages
     public class MH_DanhSach_SanPhamModel : PageModel
     {
         private IXuLySanPham _xuLySanPham = new XuLySanPham();
-        public List<SanPham> DanhSachSanPham;
+        public List<MatHang> DanhSachSanPham;
         [BindProperty]
 
         public string Tukhoa { get; set; }

@@ -1,9 +1,5 @@
-8
-1,       ABD, 40
-32,       GGGG, 43
-33,      avc, 0
-34,     ágawfawf, 0
-35,    fasf, 0
-36,   aafa, 258562
-37,  ABCD, 54
-38, ABFE, 23000
+4
+1,Khô Bò,30/01/2025,Ba Đù,2024,Thực Phẩm Khô
+2,Khô Gà Lá Chanh,31/07/2024,Thầy Giáo Ba,2024,Thực Phẩm Khô
+3,Sting Dâu Tây Đỏ,01/03/2025,PepsiCo,2024,Nước Ngọt
+4,Revice Chanh Muối,23/04/2024,Pepsico,2024,Nước Ngọt

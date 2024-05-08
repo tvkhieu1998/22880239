@@ -6,9 +6,9 @@ namespace Services_22880239
     public class XuLySanPham: IXuLySanPham
     {
         private ILuuTruSanPham _luuTruSanPham = new LuuTruSanPham();
-        public List<SanPham> DocDanhSachSanPham(string TuKhoa = "")
+        public List<MatHang> DocDanhSachSanPham(string TuKhoa = "")
         {
-            List<SanPham> kq = new List<SanPham>();
+            List<MatHang> kq = new List<MatHang>();
             var dssp = _luuTruSanPham.DocDanhSachSanPham();
             foreach (var sp in dssp)
             {
@@ -19,7 +19,7 @@ namespace Services_22880239
             }
             return kq;
         }
-        public void ThemSanPham(SanPham sanPham)
+        public void ThemSanPham(MatHang sanPham)
         {
             var dssp = _luuTruSanPham.DocDanhSachSanPham();
             int maxID = 0;
